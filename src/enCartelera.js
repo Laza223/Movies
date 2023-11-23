@@ -1,4 +1,4 @@
-aconst fs = require('fs')
+const fs = require('fs')
 let enCartelera = {
         db:'./data/movies.json',
         titulo: 'En Cartelera',
