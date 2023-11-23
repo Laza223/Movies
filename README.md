@@ -1,10 +1,5 @@
-Tamara Diaz
-Jose Rodriguez, 47 , san nicolas de los arroyos
-Lazaro Feijoo
-Tamara Diaz edad 22 ciudad: jose c paz
-Jose Rodriguez
-Lazaro Feijoo
-Javier Palacios 40 Villa Amelia, Santa Fe.
-Lazaro Feijoo, Edad: 19, Ciudad: Lujan.
-Javier Palacios
-Macarena Pischetola
+Tamara Diaz: edad 22 ciudad: jose c paz
+Javier Palacios: edad 40 años, Villa Amelia, Santa Fe.
+Lazaro Feijoo: edad: 19 años, Ciudad: Lujan.
+José Rodriguez: edad 47 años , ciudad: san nicolas de los arroyos
+Macarena Pischetola:
