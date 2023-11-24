@@ -1,4 +1,4 @@
-const index = require('./index')
+const index = require('./src/index')
 
 let router = function (url, res){
     switch (url) {
